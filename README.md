@@ -1,1 +1,1 @@
-This repository contains seismic moment tensor inversion software
+This repository contains seismic moment tensor inversion software. "berkeley_mt05062026.tar" contains the Berkeley moment tensor inversion software package. "timedependentmt.tar" contains matlab files for the inversion of a time dependent full moment tensor solution.
